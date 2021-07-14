@@ -8,4 +8,10 @@ This project shows a solution which can be used to issue an alert when an employ
 
 
 
+
+
+
+
+
+
 Dataset used : https://public.roboflow.com/object-detection/hard-hat-workers
